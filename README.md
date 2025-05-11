@@ -1,5 +1,7 @@
 # 🎯 Proyecto Clasificación Multiclase
 
+![Banner notebooks](https://github.com/user-attachments/assets/1da2b87c-a4aa-497c-b50c-3596cbf2f375)
+
 ## 📝 Descripción del Proyecto
 
 Este proyecto tiene como finalidad desarrollar un modelo de machine learning capaz de resolver un problema real utilizando algoritmos de **clasificación multiclase**. A través de este reto, se busca aplicar todo el conocimiento adquirido sobre análisis de datos, visualización, preprocesamiento, construcción de modelos supervisados y evaluación de resultados.
