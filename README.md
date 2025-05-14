@@ -62,7 +62,7 @@ Como recurso opcional sugerimos este dataset: [**Forest Cover Type Dataset**](ht
 
 ✅ Optimización de hiperparámetros con técnicas como **GridSearchCV**, **RandomizedSearch**, u **Optuna**.
 
-✅ Sistema de **feedback de usuario** para evaluar predicciones reales vs. esperadas.
+✅ Sistema de **recogida de feedback** para monitorizar la performance del modelo en producción (**métricas en tiempo real**)
 
 ✅ Pipeline de **recolección de datos nuevos** para reentrenamiento futuro.
 
